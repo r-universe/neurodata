@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lolR"]
+	path = lolR
+	url = https://github.com/neurodata/lol
+	shallow = true
+	registered = true
+[submodule "mgc"]
+	path = mgc
+	url = https://github.com/neurodata/r-mgc
+	shallow = true
+	registered = true
