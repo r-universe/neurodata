@@ -1,5 +1,9 @@
 [
   {
+    "package": "lolR",
+    "oncran": true
+  },
+  {
     "package": "mgc",
     "oncran": true
   }
