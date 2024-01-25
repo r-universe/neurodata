@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "causalBatch"]
+	path = causalBatch
+	url = https://github.com/neurodata/causal_batch
 [submodule "lolR"]
 	path = lolR
 	url = https://github.com/neurodata/lol
